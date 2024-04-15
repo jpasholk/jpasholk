@@ -1,4 +1,4 @@
-## ![Jpasholk icon](https://github.com/jpasholk/jpshlk-blog/blob/main/public/favicon.png?raw=true) Hi there 👋 I'm Josh 
+## Hi there 👋 I'm Josh 
 
 ![Picture of my on a glacier in Alaska](https://github.com/jpasholk/jpshlk-blog/blob/main/src/assets/alaska-glacier.jpg?raw=true)
 
@@ -8,4 +8,6 @@ I'm currently working on a few small projects with iOS Shortcuts, and Astro, and
 
 ![My Blog iPhone Screenshots](https://github.com/jpasholk/jpshlk-blog/blob/main/src/assets/jpshlk-blog-iPhone-screenshots.png?raw=true)
 
+***
 
+Thanks for stopping by! 🤙
