@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Josh ![Jpasholk icon](https://github.com/jpasholk/jpshlk-blog/blob/main/public/favicon.png?raw=true)
+### ![Jpasholk icon](https://github.com/jpasholk/jpshlk-blog/blob/main/public/favicon.png?raw=true) Hi there 👋 I'm Josh 
 
 ![Picture of my on a glacier in Alaska](https://github.com/jpasholk/jpshlk-blog/blob/main/src/assets/alaska-glacier.jpg?raw=true)
 
